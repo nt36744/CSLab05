@@ -1,0 +1,85 @@
+.box{
+    background-color: azure;
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box{
+    background-color: beige;
+    height: 50vh;
+    width: 50vw;
+}
+
+.padded-text{
+    background-color: cornsilk;
+    padding: 20px;
+}
+
+.custom-padding{
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.border-box{
+    background-color: palevioletred;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.rounded-border{
+    background-color: grey;
+    border-width: 3px;
+    border-color: red;
+    border-style: dotted;
+    border-radius: 15px;
+
+}
+
+.para{
+    background-color: gainsboro;
+    margin: 30px;
+}
+
+.custom-margin{
+    background-color: deepskyblue;
+    margin: 20px 40px 20px 40px;
+}
+
+.inline-element{
+    background-color: lavender;
+    display: inline;
+}
+
+.block-element{
+    display: block;
+    background-color: lavenderblush;
+}
+
+.inline-block-element{
+    display: inline-block;
+    background-color: lemonchiffon;
+}
+
+.hidden-element{
+    display: none;
+    background-color: lightblue;
+}
+
+.visible-element{
+    visibility: visible;
+    background-color: lavender;
+}
+
+.invisible-element{
+    visibility: hidden;
+    background-color: lavender;
+}
+
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
